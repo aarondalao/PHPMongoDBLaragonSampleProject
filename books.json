@@ -1,0 +1,79 @@
+[{
+  "author": [
+    {
+      "name": "Gould, Adrian"
+    },
+    {
+      "name": "Jacques d'Carre"
+    }
+  ],
+  "detail": "Testing PHP and MongoDB",
+  "name": "MongoDB for beginners"
+},{
+  "author": [
+    {
+      "name": "Wainwright, Peter"
+    }
+  ],
+  "detail": "Install, Build, Configure anbd Test a Web Server",
+  "isbn_10": "1-59059-300-6",
+  "name": "Pro Apache",
+  "year": 2004
+},{
+  "author": [
+    {
+      "name": "Greengard, Samuel"
+    }
+  ],
+  "name": "The Internet of Things"
+},{
+  "author": [
+    {
+      "name": "Pfister, Cuno"
+    }
+  ],
+  "isbn_13": "978-1449393571",
+  "isbn_10": "1449393578",
+  "name": "Getting Started with the Internet of Things: Connecting Sensors and Microcontrollers to the Cloud"
+},{
+  "author": [
+    {
+      "name": "Rowland , Claire"
+    },
+    {
+      "name": "Goodman , Elizabeth"
+    },
+    {
+      "name": "Charlier, Martin"
+    },
+    {
+      "name": "Light, Ann"
+    },
+    {
+      "name": "Lui, Alfred"
+    }
+  ],
+  "detail": "Networked thermostats, fitness monitors, and door locks show that the Internet of Things can (and will) enable new ways for people to interact with the world around them. But designing connected products for consumers brings new challenges beyond conventional software UI and interaction design.",
+  "name": "Designing Connected Products: UX for the Consumer Internet of Things",
+  "year": 2015
+},{
+  "author": [
+    {
+      "name": "Waher, Peter"
+    }
+  ],
+  "isbn_13": "978-1783553532",
+  "isbn_10": "1783553537",
+  "name": "Learning Internet of Things",
+  "year": 2015
+},{
+  "author": [
+    {
+      "name": "Molloy, Derek"
+    }
+  ],
+  "detail": "Exploring Raspberry Pi first covers the basics of the hardware platform, recommended accessories, software, embedded Linux systems, and Linux programming techniques. Then it takes you deeper into interfacing, controlling, and communicating, with detailed information about Raspberry Pi GPIOs, buses, UART devices, and USB peripherals. You will learn to configure a cross-compilation environment in order to build large-scale software applications, as well as how to combine hardware and software to enable the Raspberry Pi to interact effectively with its physical environment. Finally, you�ll discover how to use the Raspberry Pi for advanced interfacing and interaction applications such as the Internet of Things (IoT); wireless communication and control; rich user interfaces; images, video, and audio; and Linux kernel programming.",
+  "isbn_13": "978-1119188681",
+  "isbn_10": "1119188687",
+  "name": "Exploring Raspberry Pi"
+}]
